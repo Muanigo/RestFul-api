@@ -20,7 +20,9 @@ Restful api main class: https://tr.anotepad.com/note/read/f96yy5xi
 
 -Modeller 
 RestFul api User.java https://tr.anotepad.com/note/read/xrqchy6y
+
 RestFul api Task.java: https://tr.anotepad.com/note/read/j5dmj2jn
+
 RestFul api Comment.java: https://tr.anotepad.com/note/read/d86q7qhm
 
 -Repository Katmanı
