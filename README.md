@@ -1,0 +1,37 @@
+# RestFul-api
+
+Bu proje, Spring Boot kullanılarak geliştirilmiş basit bir RESTful API uygulamasıdır
+API üzerinden kullanıcılar, görevler ve yorumlar için CRUD işlemleri yapılabilir
+Özellikler:
+ Kullanıcı Yönetimi (User CRUD)
+
+ -Görev Yönetimi (Task CRUD, Kullanıcıya bağlı)
+
+ -Yorum Yönetimi (Comment CRUD, Göreve bağlı)
+
+ -H2 Database entegrasyonu (in-memory)
+
+ -JSON tabanlı veri transferi
+
+ -Spring Data JPA ile repository yönetimi
+
+-Kodlar:
+Restful api main class: https://tr.anotepad.com/note/read/f96yy5xi 
+
+-Modeller 
+RestFul api User.java https://tr.anotepad.com/note/read/xrqchy6y
+RestFul api Task.java: https://tr.anotepad.com/note/read/j5dmj2jn
+RestFul api Comment.java: https://tr.anotepad.com/note/read/d86q7qhm
+
+-Repository Katmanı
+RestFul api UserRepository.java: https://tr.anotepad.com/note/read/fniqfs3m
+RestFul api TaskRepository.java: https://tr.anotepad.com/note/read/47a8338k
+RestFul api CommentRepository.java: https://tr.anotepad.com/note/read/rctm6jk9
+
+-Controller Katmanı
+RestFul api UserController.java: https://tr.anotepad.com/note/read/kfycsjip
+RestFul api TaskController.java: https://tr.anotepad.com/note/read/xcihati2
+RestFul api CommentController.java: https://tr.anotepad.com/note/read/dae3cafm
+
+Nasıl çalışır: Kodu Visual Studio Code veya IntelliJ’de aç 
+mvn spring-boot:run veya IDE’den başlat 
