@@ -20,15 +20,15 @@ Restful api main class: https://tr.anotepad.com/note/read/f96yy5xi
 
 -Modeller 
 RestFul api User.java https://tr.anotepad.com/note/read/xrqchy6y
-
 RestFul api Task.java: https://tr.anotepad.com/note/read/j5dmj2jn
-
 RestFul api Comment.java: https://tr.anotepad.com/note/read/d86q7qhm
+
 
 -Repository Katmanı
 RestFul api UserRepository.java: https://tr.anotepad.com/note/read/fniqfs3m
 RestFul api TaskRepository.java: https://tr.anotepad.com/note/read/47a8338k
 RestFul api CommentRepository.java: https://tr.anotepad.com/note/read/rctm6jk9
+
 
 -Controller Katmanı
 RestFul api UserController.java: https://tr.anotepad.com/note/read/kfycsjip
